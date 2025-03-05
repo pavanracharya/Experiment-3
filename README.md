@@ -194,7 +194,9 @@ In simple terms:
 
 ### AC ANALYSIS
 
-![AC Analysis with Iss]() 
+![AC Analysis with Iss](![current source ac analysis](https://github.com/user-attachments/assets/3b7d728e-0264-4ab0-bdd2-02956575bf44)
+) 
+
 
 ### ADVANTAGES
 
