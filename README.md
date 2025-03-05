@@ -180,7 +180,8 @@ In simple terms:
 
 ### REPLACED RESISTOR (RSS) WITH A CURRENT SOURCE (ISS)
 
-![Replaced Rss with Iss](https://github.com/user-attachments/assets/f0ee53a8-b699-47e9-9029-6b550eff3532)
+![Replaced Rss with Iss](![current source op](https://github.com/user-attachments/assets/79d2d2d6-e9a5-40b8-8a4b-4a34f2238f1d)
+)
 
 ### DC ANALYSIS
 
@@ -188,11 +189,12 @@ In simple terms:
 
 ### TRANSIENT ANALYSIS
 
-![Transient Analysis with Iss](https://github.com/user-attachments/assets/c8f6a61d-a717-4fcc-9062-dc455189f017)
+![Transient Analysis with Iss](![current source transient](https://github.com/user-attachments/assets/918c450f-ce48-43a6-a512-9958277e1965)
+)
 
 ### AC ANALYSIS
 
-![AC Analysis with Iss](https://github.com/user-attachments/assets/52ae2cde-485f-4538-b1f4-d24dda0be620)
+![AC Analysis with Iss]() 
 
 ### ADVANTAGES
 
